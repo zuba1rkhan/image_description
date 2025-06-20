@@ -240,15 +240,6 @@ docker run -p 8000:8000 image-api
 ## License
 MIT License
 
-## Technical Assessment
-This project demonstrates:
-- ✅ Clean Django architecture (30%)
-- ✅ Pillow → LLM integration (25%)  
-- ✅ Error handling (15%)
-- ✅ Testing coverage (15%)
-- ✅ Documentation (15%)
-
----
 
 **Quick Commands:**
 ```bash
